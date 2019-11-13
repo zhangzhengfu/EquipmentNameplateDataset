@@ -6,4 +6,4 @@ In order to make people train detection and recognition model separately, we ann
 Some detailed statistics information about our dataset will be given so that people can use them to analyse and develop their own models. 
 Moreover, we use our dataset to test some famous detection and recognition models and present the corresponding results in order to make researcher compare them with their own models.
 ## Download
-- Text Recognition: [Baidu pan](https://pan.baidu.com/s/1v0kpHclNZjS7Pq6Anz7jUA) password: c63k
+- Text Recognition: [Baidu pan](https://pan.baidu.com/s/1aPRHa7i4KILxMKdM_F7i2Q) password: 121t
